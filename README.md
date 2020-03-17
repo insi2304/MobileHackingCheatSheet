@@ -2,7 +2,8 @@
 The Mobile Hacking CheatSheet is an attempt to summarise a few interesting basics info regarding tools and commands needed to assess the security of Android and iOS mobile applications.
 
 Extra Tips and Tricks:
-objection patchapk --source UnCrackable-Level1.apk 
+objection patchapk --source UnCrackable-Level1.apk
+
 objection explore
 
 # Android CheatSheet
